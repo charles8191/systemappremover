@@ -1,3 +1,3 @@
 # systemappremover
 
-Delete junk built-in android apps. Needs ADB in PATH.
+Deletes built-in android apps. Like ader but more manual. Needs ADB in PATH.
